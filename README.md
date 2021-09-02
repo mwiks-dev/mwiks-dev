@@ -1,6 +1,8 @@
-- Hi, I’m Maryann
-- I’m interested in programming.
-- I’m currently learning how to code.
+- Hi, I’m Maryann Mwikali
+- I’m interested in programming and software development.
+- I’m currently learning Javascript and bootstrap 
+- I have learnt HTML and CSS in the recent past.
+- Coding can be fun but at times things get messy,worry not you are not alone:)
 
 
 <!---
