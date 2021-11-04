@@ -1,6 +1,6 @@
 - Hi, I’m Maryann Mwikali
 - I’m interested in programming and software development.
-- I’m currently learning Javascript and bootstrap 
+- I’m currently learning Javascript,Angular,Python and Flask.
 - I have learnt HTML and CSS in the recent past.
 - Coding can be fun but at times things get messy,worry not you are not alone:)
 
