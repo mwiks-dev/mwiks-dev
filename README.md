@@ -1,9 +1,25 @@
-- Hi, I’m Maryann Mwikali
-- I’m interested in programming and software development.
-- I’m currently learning Javascript,Angular,Python and Flask.
-- I have learnt HTML and CSS in the recent past.
-- Coding can be fun but at times things get messy,worry not you are not alone:)
+<h2> Hey there 👋🏾 I'm Maryann</h2>
 
+<h3> &nbsp;👩🏾‍💻 About Me </h3>
+
+I am a knowledge manager currently studying Software development. I just graduated with a Bachelor's degree in Information Science from The Technical University of Kenya  💃 and I'm currently looking for a new role where I can collaborate with an amazing team and change the world 🦸‍.
+
+<h3> 🌱 Current project </h3>
+
+- Learning Python and databases. 😎
+
+<h3> 🔮 Next project </h3>
+
+- Use python to learn machine learning
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/maryannmwikali/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maryann%20Mwikali-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:mwikali119@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mwikali%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+⭐️ From [AVS1508](https://github.com/AVS1508)
 
 <!---
 Maryan23/Maryan23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
