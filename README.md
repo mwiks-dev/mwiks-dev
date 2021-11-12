@@ -15,7 +15,7 @@ I am a knowledge manager currently studying Software development. I just graduat
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/maryannmwikali/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maryann%20Mwikali-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/maryann-mwikali/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maryann%20Mwikali-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mwikali119@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mwikali%40gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
