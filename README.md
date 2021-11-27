@@ -10,7 +10,7 @@ I am a knowledge manager currently studying Software development. I just graduat
 
 <h3> 🔮 Next project </h3>
 
-- Use python to learn machine learning
+- Use python to understand machine learning
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
