@@ -17,7 +17,7 @@ I am a knowledge manager currently studying Software development. I just graduat
   <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=maryan23&">
 </a><br><br><br><br><br><br><br><br><br><br><br>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/maryann-mwikali-288635225/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maryann%20Mwikali-blue?style=flat-square&logo=linkedin"></a>
