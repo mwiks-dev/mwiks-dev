@@ -12,6 +12,11 @@ I am a knowledge manager currently studying Software development. I just graduat
 
 - Use python to understand machine learning
 
+<h2>GitHub Stats</h2>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=maryan23&count_private=true&show_icons=true&theme=cobalt">
+  <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=maryan23&">
+</a>
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
