@@ -10,12 +10,8 @@ I am a knowledge manager currently studying Software development. I just graduat
 
 <h3> 🔮 Next project </h3>
 
-- Use python to understand machine learning
+- Use python to understand machine learning<br>
 
-<h2>GitHub Stats</h2>
-<a align="center"href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=maryan23&count_private=true&show_icons=true&theme=cobalt">
-  <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=maryan23&">
-</a><br>
 
 <center>
 <table>
@@ -23,14 +19,19 @@ I am a knowledge manager currently studying Software development. I just graduat
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryan23&hide=html&layout=compact&show_icons=true&theme=tokyonight" /></td>
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Maryan23&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=ture&hide_title=true" /></td>
 </table>
-</center>
+</center><br>
+
+<h2>GitHub Stats</h2>
+<a align="center"href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=maryan23&count_private=true&show_icons=true&theme=cobalt">
+  <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=maryan23&">
+</a><br>
 
 
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Maryan23.)
 
-<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3><br>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/maryann-mwikali-288635225/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maryann%20Mwikali-blue?style=flat-square&logo=linkedin"></a>
