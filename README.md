@@ -17,6 +17,19 @@ I am a knowledge manager currently studying Software development. I just graduat
   <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=maryan23&">
 </a><br>
 
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryan23&hide=html&layout=compact&show_icons=true&theme=tokyonight" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Maryan23&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=ture&hide_title=true" /></td>
+</table>
+</center>
+
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Maryan23.)
+
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
