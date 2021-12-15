@@ -21,6 +21,10 @@ I am a knowledge manager currently studying Software development. I just graduat
 </table>
 </center>
 
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Maryan23.)
+
 <h2 align="center">GitHub Stats</h2>
 <a align="center"href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=maryan23&count_private=true&show_icons=true&theme=cobalt">
   <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=maryan23&">
@@ -31,8 +35,7 @@ I am a knowledge manager currently studying Software development. I just graduat
 <p align="center">
 <a href="https://www.linkedin.com/in/maryann-mwikali-288635225/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maryann%20Mwikali-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mwikali119@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mwikali%40gmail.com-blue?style=flat-square&logo=gmail"></a>
- #### Profile Visits 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Maryan23.)
+ 
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
