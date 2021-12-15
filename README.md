@@ -31,8 +31,7 @@ I am a knowledge manager currently studying Software development. I just graduat
 <p align="center">
 <a href="https://www.linkedin.com/in/maryann-mwikali-288635225/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maryann%20Mwikali-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mwikali119@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mwikali%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-  #### Profile Visits 
-
+ #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Maryan23.)
 </p>
 
