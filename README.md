@@ -7,6 +7,7 @@ I am a knowledge manager currently studying Software development. I just graduat
 <h3> 🌱 Current project </h3>
 
 - Learning Python and databases. 😎
+- Understanding how to intergrate different programming languages. 
 
 <h3> 🔮 Next project </h3>
 
