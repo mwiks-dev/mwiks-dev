@@ -2,7 +2,7 @@
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
-I am a knowledge manager currently studying Software development. I just graduated with a Bachelor's degree in Information Science from The Technical University of Kenya  💃 and I'm currently looking for a new role where I can collaborate with an amazing team and change the world 🦸‍.
+I am a knowledge manager currently studying Software development. I just graduated with a Bachelor's degree in Information Science from The Technical University of Kenya  💃 and I'm currently collaborating with an amazing team at Moringa School ,working as a Technical Mentor hoping to change the world 🦸‍.
 
 <h3> 🌱 Current project </h3>
 
