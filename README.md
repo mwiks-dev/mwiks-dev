@@ -1,4 +1,4 @@
-<h2> Hey there 👋🏾 I'm Maryann</h2>
+<h2> Hey there 👋🏾 I'm Mwikali </h2>
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
