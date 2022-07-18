@@ -42,6 +42,6 @@ I am a knowledge manager currently immersed in the world of Software development
 ⭐️ From [AVS1508](https://github.com/AVS1508)
 
 <!---
-Maryan23/Maryan23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mwiks-dev/mwiks-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
