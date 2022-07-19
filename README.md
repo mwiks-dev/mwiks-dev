@@ -17,18 +17,18 @@ I am a knowledge manager currently immersed in the world of Software development
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryan23&hide=html&layout=compact&show_icons=true&theme=tokyonight" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Maryan23&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=ture&hide_title=true" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwiks-dev&hide=html&layout=compact&show_icons=true&theme=tokyonight" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=mwiks-dev&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=ture&hide_title=true" /></td>
 </table>
 </center>
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Maryan23.)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Mwiks-dev.)
 
 <h2>GitHub Stats</h2>
-<a align="center"href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=maryan23&count_private=true&show_icons=true&theme=cobalt">
-  <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=maryan23&">
+<a align="center"href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mwiks-dev&count_private=true&show_icons=true&theme=cobalt">
+  <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=mwiks-dev&">
 </a><br>
 
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3><br>
