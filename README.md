@@ -17,8 +17,8 @@ I am a knowledge manager currently immersed in the world of Software development
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwiks-dev&hide=html&layout=compact&show_icons=true&theme=tokyonight" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=mwiks-dev&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=ture&hide_title=true" /></td>
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwiks-dev&hide=html&layout=compact&show_icons=true&theme=tokyonight" /></td>
+      <td><img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=mwiks-dev&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=ture&hide_title=true" /></td>
 </table>
 </center>
 
