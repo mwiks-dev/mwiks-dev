@@ -6,12 +6,12 @@ I am a knowledge manager currently immersed in the world of Software development
 
 <h3> 🌱 Current project </h3>
 
-- Using Python to do backtesting. 😎
+- Developing and Documenting API's for two personal projects(HERPA and D-Bug). 😎
 - Understanding how to intergrate different programming languages. 
 
 <h3> 🔮 Next project </h3>
 
-- Use python to understand machine learning and Artificial Intelligence<br>
+- Use python to understand Machine Learning and Artificial Intelligence<br>
 
 
 <center>
