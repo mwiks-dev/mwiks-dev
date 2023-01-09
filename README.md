@@ -2,16 +2,22 @@
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
-I am a knowledge manager currently immersed in the world of Software development. I graduated with a Bachelor's degree in Information Science from The Technical University of Kenya  💃 and I'm currently collaborating with an amazing team at Moringa School ,as a Technical Mentor hoping to change the world 🦸‍.
+I am a knowledge manager immersed in the world of Software development.I am currently collaborating with an amazing team at Moringa School ,as a Technical Mentor hoping to change the world 🦸‍.
 
-<h3> 🌱 Current project </h3>
+#### Profile Visits 
 
-- Developing and Documenting API's for two personal projects(HERPA and D-Bug). 😎
-- Understanding how to intergrate different programming languages. 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Mwiks-dev.)
+
+<h3> 🌱 Current Projects </h3>
+
+- Developing and Documenting API's for two personal projects(D-Bug). 😎
+- Understanding how to intergrate different programming languages. ⚔️
+- Taking Python for Data Science courses.
+- Learning how to go about Technical Writing 😁
 
 <h3> 🔮 Next project </h3>
 
-- Use python to understand Machine Learning and Artificial Intelligence<br>
+- Use Python to understand Machine Learning and Artificial Intelligence<br>
 
 
 <center>
@@ -22,11 +28,7 @@ I am a knowledge manager currently immersed in the world of Software development
 </table>
 </center>
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mwiks-dev.)
-
-<h2>GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 <a align="center"href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mwiks-dev&count_private=true&show_icons=true&theme=cobalt">
   <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=mwiks-dev&">
 </a><br>
