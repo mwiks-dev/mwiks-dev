@@ -29,7 +29,7 @@ I am a knowledge manager immersed in the world of Software development.I am curr
 </center>
 
 <h2 align="center">GitHub Stats</h2>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mwiks-dev&count_private=true&show_icons=true&theme=cobalt">
+<a margin-left='30%' href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mwiks-dev&count_private=true&show_icons=true&theme=cobalt">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=mwiks-dev&">
 </a><br>
 
