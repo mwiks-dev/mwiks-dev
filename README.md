@@ -6,20 +6,20 @@
 Here are some ideas to get you started:
 -->
 #### Who I am?
-- A Technical Mentor Apprentice based in **[Nairobi](https://en.wikipedia.org/wiki/Nairobi), [Kenya](https://en.wikipedia.org/wiki/Bangladesh).** 
+- A Technical Mentor Apprentice based in **[Nairobi](https://en.wikipedia.org/wiki/Nairobi), [Kenya](https://en.wikipedia.org/wiki/Kenya).** 
 - Have 3+ years of hands-on experience in **software development** and 1 year experience in **Data Analysis and Science.**
-- Have built **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
+- Have built **web** apps targeting **multi-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
 - 🏢 Working at **[Moringa School](https://moringaschool.com/)** as a **Technical Mentor Apprentice**.
 - 👨‍💻 Writing `Python` `Ruby on Rails` `SQL` `HTML` `CSS` `JavaScript` `React`.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/maryann-mwikali/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/maryann-mwikali/).
-- 📚 Currently learning about **data science**, **cloud development**, **large scale system design**, and **blockchain**.
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/maryann-mwikali/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>[LinkedIn](https://www.linkedin.com/in/maryann-mwikali/).
+- 📚 Currently learning about **Data Science**, **Cloud Development**, **Large scale system design**, and **Blockchain**.
 - 👯 Looking to collaborate on **Ruby on Rails Projects**.
 - 🥰 Building **[Thrift-Store](https://github.com/mwiks-dev/Thrift-Store)** as a pet project.
 
 #### What I like to disscuss about? 
-- 💬 Ask me about `Web APIs` `System design` `scalability` `design patterns` `data structures` `clean code` `requirement analysis` `choice of frameworks` and `tech culture`.
+- 💬 Ask me about `Web APIs` `System design` `Scalability` `Design patterns` `Data structures` `Clean code` `Requirement Analysis` `Choice of Frameworks` and `Tech Culture`.
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
@@ -55,13 +55,13 @@ Here are some ideas to get you started:
 #### What companies have I worked for?
 <p left="center">
   <a href="https://moringaschool.com/">
-    <img src="https://imgs.search.brave.com/YpBrlTKFEDPRzrMSR7blBM7DIzTw0wpXB3evHp-bdoI/rs:fit:200:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC42/eHZ2bm8zMndzWW5O/N2t2TTJNaVF3QUFB/QSZwaWQ9QXBp" height=50>
+    <img src="https://imgs.search.brave.com/YpBrlTKFEDPRzrMSR7blBM7DIzTw0wpXB3evHp-bdoI/rs:fit:200:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC42/eHZ2bm8zMndzWW5O/N2t2TTJNaVF3QUFB/QSZwaWQ9QXBp" height=70>
     </a> 
   <a href="https://klb.co.ke/">
-    <img src="https://imgs.search.brave.com/_yQfQ1yt7b35-jMB4a3qvmaxIc6g6HEi8qKOD6azsPA/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5z/eUJRem5YTGVzeE9x/ZlpPWXpBcjBnSGFI/YSZwaWQ9QXBp" height=50>
+    <img src="https://imgs.search.brave.com/_yQfQ1yt7b35-jMB4a3qvmaxIc6g6HEi8qKOD6azsPA/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5z/eUJRem5YTGVzeE9x/ZlpPWXpBcjBnSGFI/YSZwaWQ9QXBp" height=70>
   </a>
   <a href="https://www.linkedin.com/company/united-states-of-africa/">
-    <img src="https://media.licdn.com/dms/image/C4D0BAQFVEj6zbZS-NA/company-logo_200_200/0/1609569198884?e=1683763200&v=beta&t=UUw88MAZ23ydYIAcGNoewy04wNfr_iWKCBfyD-yIuIw"height=50>
+    <img src="https://media.licdn.com/dms/image/C4D0BAQFVEj6zbZS-NA/company-logo_200_200/0/1609569198884?e=1683763200&v=beta&t=UUw88MAZ23ydYIAcGNoewy04wNfr_iWKCBfyD-yIuIw"height=70>
   </a>
 </p>
 
