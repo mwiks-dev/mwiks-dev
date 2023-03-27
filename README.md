@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 #### Who am I?
 - A Technical Mentor Apprentice based in **[Nairobi](https://en.wikipedia.org/wiki/Nairobi), [Kenya](https://en.wikipedia.org/wiki/Kenya).** 
-- Have 3+ years of hands-on experience in **software development** and 1 year experience in **Data Analysis and Science.**
-- Have built **web** apps targeting **multi-platform** ecosystems in **monolithic** and **microservices** architectures.
+- Have 3+ years of hands-on experience in **Software Development** and 1 year experience in **Data Science.**
+- Have built **Web** apps targeting **multi-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
 - 🏢 Working at **[Moringa School](https://moringaschool.com/)** as a **Technical Mentor Apprentice**.
@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 #### What I like to disscuss about? 
 - 💬 Ask me about `Web APIs` `System design` `Scalability` `Design patterns` `Data structures` `Clean code` `Requirement Analysis` `Choice of Frameworks` and `Tech Culture`.
+
+![Mwikali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mwiks-dev&theme=gotham&layout=compact)
+
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
