@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #### What I like to disscuss about? 
 - 💬 Ask me about `Web APIs` `System design` `Scalability` `Design patterns` `Data structures` `Clean code` `Requirement Analysis` `Choice of Frameworks` and `Tech Culture`.
 
-![Mwikali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mwiks-dev&theme=gotham&layout=compact)
+![Mwikali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mwiks_dev&theme=gotham&layout=compact)
 
 
 #### What my skill set looks like?
