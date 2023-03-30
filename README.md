@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 - 👯 Looking to collaborate on **Ruby on Rails Projects**.
 - 🥰 Building **[Thrift-Store](https://github.com/mwiks-dev/Thrift-Store)** as a pet project.
 
-#### What I like to disscuss about? 
-- 💬 Ask me about `Web APIs` `System design` `Scalability` `Design patterns` `Data structures` `Clean code` `Requirement Analysis` `Choice of Frameworks` and `Tech Culture`.
-
 ![Mwikali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mwiks_dev&theme=gotham&layout=compact)
 
+#### What I like to disscuss about? 
+- 💬 Ask me about `Web APIs` `System design` `Scalability` `Design patterns` `Data structures` `Clean code` `Requirement Analysis` `Choice of Frameworks` and `Tech Culture`.
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
