@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - 👯 Looking to collaborate on **Ruby on Rails Projects**.
 - 🥰 Building **[Thrift-Store](https://github.com/mwiks-dev/Thrift-Store)** as a pet project.
 
-![Mwikali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mwiks_dev&theme=gotham&layout=compact)
-
 #### What I like to disscuss about? 
 - 💬 Ask me about `Web APIs` `System design` `Scalability` `Design patterns` `Data structures` `Clean code` `Requirement Analysis` `Choice of Frameworks` and `Tech Culture`.
 
@@ -44,7 +42,7 @@ Here are some ideas to get you started:
   
 - **🏗️ Code editors:**
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a>
-  
+  https://github.com/mwiks-dev
 #### What's interesting about me?  
   - 😎 I am an **Ambivert** and I can speak **English** and **Swahili** in multiple accents.
 
