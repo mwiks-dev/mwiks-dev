@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
-  - **🔬 Frameworks:**  
+  - **🔬 Libraries:**  
     - **🌐 Web:** • [React](https://reactjs.org/)
 - 🗄️ **Back-end:** 
   - **📜 Languages:** • `🧙🏻‍♂️ Python` • `🧚 Ruby`
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** • [Git](https://git-scm.com/)
-  - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards)
+  - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) • [Asana](https://asana.com/) • [Trello](https://trello.com/)
   - **🗂 CI/CD:** • [Github Actions](https://github.com/features/actions) • [Github Pages](https://pages.github.com/)
 - 🧙‍♂️ **Coding pattern & principles:**
   - **⚒ Patterns:** • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
